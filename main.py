@@ -9,6 +9,9 @@ from student1_greeting import get_greeting
 get_greeting("Bismark")
 
 # TODO: Student 2 - import and call add()/subtract() here
+from student2_calculator import add, subtract
+add(34, 7)
+subtract(8,2)
 
 # TODO: Student 3 - import and call celsius_to_fahrenheit() here
 
